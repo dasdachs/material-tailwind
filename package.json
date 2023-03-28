@@ -1,0 +1,28 @@
+{
+  "name": "material-tailwind",
+  "version": "1.0.0",
+  "description": "Materil@3 styles and components with tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasdachs/material-tailwind.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "material-ui",
+    "react",
+    "solidjs"
+  ],
+  "author": "Jani Šumak <jani.sumak@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasdachs/material-tailwind/issues"
+  },
+  "homepage": "https://github.com/dasdachs/material-tailwind#readme",
+  "devDependencies": {
+    "turborepo": "0.0.1"
+  }
+}
